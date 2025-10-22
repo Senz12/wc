@@ -1,1 +1,9 @@
-
+wlan.fc.type_subtype == 0	Association Request
+wlan.fc.type_subtype == 1	Association Response
+wlan.fc.type_subtype == 2	Beacon frame
+wlan.fc.type_subtype == 4	Probe Request
+wlan.fc.type_subtype == 5	Probe Response
+wlan.fc.type_subtype == 8	Data frame
+wlan.fc.type_subtype == 11	RTS (Request to Send)
+wlan.fc.type_subtype == 12	CTS (Clear to Send)
+wlan.fc.type_subtype == 13	ACK

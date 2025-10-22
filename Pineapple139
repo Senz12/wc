@@ -8,12 +8,10 @@ wlan.fc.type_subtype == 11	RTS (Request to Send)
 wlan.fc.type_subtype == 12	CTS (Clear to Send)
 wlan.fc.type_subtype == 13	ACK
 
-What percentage of the frames are 802.11 beacon frames?
-
 wlan.fc.type_subtype == 0x08
-
 http.request
-
 wlan.fc.retry == 1
-
 Aircrack-ng egg… -w leaked…
+DNS
+ICMP
+UDP
